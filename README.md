@@ -7,7 +7,7 @@ This should be a open source api to allow small groups and individual share reso
 The main concept of the API should allow a decentralized setup. The following are example scenarios of typical use cases:
 1. You want to borrow your friends some unused tools or games, all the stuff that is only lying around 99% of the time.
 2. You want to share cars with a certain group of people and track usage.
-3. You want to rent/borrow your neighbors tools or other stuff. 
+3. You want to rent/borrow your neighbors tools or other stuff.
 
 ### Unauthenticated features
 - [ ] Offer object statics as open data, such as shares, objects registered, persons, CO2 reduced, etc.
@@ -84,6 +84,11 @@ What is the state of the art at the moment? How well are they working? What can 
 ## Open Source
 - [__leila:__](https://github.com/achimbo/leila/tree/master/leila): Undocumented open source implementation for a "__Le__ih __La__den". (23.08.2019)
 - [__Commons Booking (Wordpress Plugin):__](https://github.com/wielebenwir/commons-booking): An open source wordpress plugin to administrate the rental of cargo bikes. (23.08.2019)
+
+# Decentralized Setup
+![Decentralized Setup](img/Decentralized-Setup.svg)
+
+
 
 # Ideas
 All unsorted ideas below here.
