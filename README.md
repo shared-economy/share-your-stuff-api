@@ -1,5 +1,7 @@
 ![Status: Draft](https://img.shields.io/badge/Status-DRAFT-blue)
 
+Find me on CCCAMP2019: south from the Meitner tent, last group of tents in the curve.
+
 # share-your-stuff-api
 This should be a open source api to allow small groups and individual share resources with each other.
 
