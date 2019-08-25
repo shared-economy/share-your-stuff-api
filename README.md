@@ -1,7 +1,7 @@
 ![Status: Draft](https://img.shields.io/badge/Status-DRAFT-blue)
 
 Find me on CCCAMP2019: 
-- Current: south from the Meitner tent, last group of tents in the curve.
+- Current: already on my way back home :(
 
 Contact-Me: Threema-ID: https://threema.id/KSXNBRW4
 
