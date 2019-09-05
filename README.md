@@ -3,8 +3,6 @@
 Find me on CCCAMP2019: 
 - Current: already on my way back home :(
 
-Contact-Me: Threema-ID: https://threema.id/KSXNBRW4
-
 # share-your-stuff-api
 This should be a open source api to allow small groups and individual share resources with each other.
 
