@@ -1,5 +1,8 @@
 ![Status: Draft](https://img.shields.io/badge/Status-DRAFT-blue)
 
+Find me on CCCAMP2019: 
+- Current: already on my way back home :(
+
 # share-your-stuff-api
 This should be a open source api to allow small groups and individual share resources with each other.
 
