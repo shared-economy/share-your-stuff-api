@@ -1,0 +1,11 @@
+{
+  "_id":"uuid",
+  "name":"Hackerspace 1",
+  "user":[
+    "uuid1",
+    "uuid2",
+    "uuid3"
+  ],
+  "description":"Hackerspace auf der Straße X."
+
+}

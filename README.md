@@ -14,7 +14,7 @@ The main concept of the API should allow a decentralized setup. The following ar
 
 ### Authentication
 - [ ] Login using password and email
-- [ ] 2 Factore Login
+- [ ] 2 Factor Login
 - [ ] OAuth 2.0 as SSO to allow distributed access
 - [ ] Allow use of other Login provider (Github, Google, etc.)
 
@@ -86,12 +86,13 @@ What is the state of the art at the moment? How well are they working? What can 
 - [__Commons Booking (Wordpress Plugin):__](https://github.com/wielebenwir/commons-booking): An open source wordpress plugin to administrate the rental of cargo bikes. (23.08.2019)
 
 # Decentralized Setup
-![Decentralized Setup](img/Decentralized-Setup.svg)
+![Decentralized Setup (made with draw.io)](img/Decentralized-Setup.svg)
 
-
+Each group should be able to setup their own pod (server with the api running) to have control about their data (see pod3).
+A central instance (Central Route Pod) will be used to host an api instance for all users without technical knowledge and as a routing service for pods to find each other. E.g. Pod1 wants to find Pod2 to share stuff with each other.
 
 # Ideas
-All unsorted ideas below here.
+All unsorted ideas below here:
 
 ## Additional APIs
 - <strike>Amazon API https://amazon-affiliate.eu/de/zugriff-amazon-product-advertising-api/ (terms and conditions seem to prevent the use.)</strike>
